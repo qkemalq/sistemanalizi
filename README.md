@@ -1,2 +1,0 @@
-# sistemanalizi
-sistem analizi
